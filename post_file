@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<o:gupdate xmlns:o="http://www.google.com/update2/request" version="MementoSoftwareUpdate-0.1.0.0" updaterversion="MementoSoftwareUpdate-0.1.0.0" protocol="2.0" machineid="{9F263966-37A9-7DF6-C1D5-350544CDFE54}" ismachine="0" userid="{9F263966-37A9-7DF6-C1D5-350544CDFE54}">
+    <o:os version="Memento" platform="memento" sp="0.15.877.21_armv7l"></o:os>
+    <o:app appid="{87efface-864d-49a5-9bb3-4b050a7c227a}" version="0.15.877.21" lang="en-us" brand="GGLG" track="release-channel" board="tegra2_aebl">
+        <o:ping active="0"></o:ping>
+        <o:updatecheck></o:updatecheck>
+    </o:app>
+</o:gupdate>
+
